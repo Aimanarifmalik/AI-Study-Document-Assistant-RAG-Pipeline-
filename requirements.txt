@@ -1,0 +1,11 @@
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-groq
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pymupdf
+rapidocr-onnxruntime
+streamlit
+python-dotenv
